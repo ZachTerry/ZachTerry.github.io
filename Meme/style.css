@@ -1,0 +1,23 @@
+header{
+    background-color: lightgrey;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    
+    background-image: url(http://s.storage.akamai.coub.com/get/b69/p/coub/simple/cw_timeline_pic/67c19e39d28/eb16592e7febf59c0c79d/big_1462379101_image.jpg);
+    text-align: center;
+    
+}
+
+p {
+    background-color: white;
+}
+p2 {
+    background-color: white;
+}
+
+#1 {
+    float: left;
+}
